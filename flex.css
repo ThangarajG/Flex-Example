@@ -1,0 +1,85 @@
+body{
+    /* background-color: darkgreen; */
+}
+.container{
+    background-color:rgb(248, 246, 241);
+    width:400px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}.card{
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    height: 350px;
+    width: 320px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+
+} .header{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+    /* background-color: rgb(241, 236, 236); */
+    /* border-radius: 20px; */
+}  .image{
+    width: 80%;
+    height: 50%;
+    margin-top: 40px;
+    /* padding: 20px; */
+
+    margin-right: 40px;
+    
+}.content{
+    display: flex;
+    /* justify-content:flex-start; */
+    margin-right: 1000px;
+}.para{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 40px;
+}.para-1{
+    /* display: flex; */
+    margin-left: 50px;
+    
+}
+.image-1{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+
+}.yes{
+    margin-left: 40px;
+}content-3{
+    display: flex;
+    
+}.container-1{
+    background-color: yellow;
+    padding: 30px;
+
+}.card-1{
+    background-color:black;
+    padding: 20px;
+    height: 80px;
+    color: whitesmoke;
+}.card-2{
+    background-color: whitesmoke;
+    padding: 20px;
+    height: 200px;
+    
+}.title{
+    display: flex;
+}
+.size{
+    display: flex;
+    justify-content:space-around;
+    
+    
+}.shoe{
+    width: 130px;
+    height: 300px;
+}
+.card-1{
+    display: flex;
+    justify-content: flex-start;
+}
